@@ -27,5 +27,3 @@ NumPy
 
 B.Tech Computer Science Engineering Student
 
-#Live Demo:
-https://raceintel-84palhguyxtzfxctzroncd.streamlit.app/
